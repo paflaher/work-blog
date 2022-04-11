@@ -14,6 +14,7 @@ So let me start off by stating that I am not an expert when it comes to app/dev 
 >
 > - An Azure Subscription
 > - An IDE, in my case I will be using Visual Studio Code
+> - A Github Account
 > - Should you wish to keep this up and running as your blog, a custom domain.
 
 #### Things You Will Not Need
