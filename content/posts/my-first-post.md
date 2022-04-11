@@ -1,6 +1,23 @@
 ---
 title: "My First Post"
 date: 2022-04-11T16:55:48+01:00
-draft: true
+draft: false
 ---
 
+# How Easy is it to publish a Hugo Static App? Can I do it?
+
+## Hugo Static Web App With Azure
+
+So let me start off by stating that I am not an expert when it comes to app/dev work, my background is an Infrastructure Engineer with a main focus on Azure Storage (Blob, File etc..), I wanted to see how easily I could deploy an Azure Static Web App using the open source static website generator Hugo.
+
+> #### Things You Will Need
+>
+> - An Azure Subscription
+> - An IDE, in my case I will be using Visual Studio Code
+> - Should you wish to keep this up and running as your blog, a custom domain.
+
+#### Things You Will Not Need
+
+1. A deep understanding of HTML/CSS/JS (I have some knowledge but not a great deal)
+
+### Lets Get Started
