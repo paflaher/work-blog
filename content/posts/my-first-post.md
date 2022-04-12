@@ -8,11 +8,11 @@ draft: false
 
 ## Hugo Static Web App With Azure
 
-So let me start off by stating that I am not an expert when it comes to app/dev work, my background is an Infrastructure Engineer with a main focus on Azure Storage (Blob, File etc..), I wanted to see how easily I could deploy an Azure Static Web App using the open source static website generator Hugo.
+So let me start off by stating that I am not an expert when it comes to app/dev work, my background is an Infrastructure Engineer with a main focus on Azure Storage (Blob, File etc..), I wanted to see how easily I could deploy an Azure Static Web App using the open source static website generator [Hugo](https://gohugo.io/).
 
 > #### Things You Will Need
 >
-> - An Azure Subscription
+> - An Azure Subscription (you can set up a free trial if you are just practicing)
 > - An IDE, in my case I will be using Visual Studio Code
 > - A Github Account
 > - Should you wish to keep this up and running as your blog, a custom domain.
